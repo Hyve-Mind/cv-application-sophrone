@@ -34,7 +34,7 @@ html, body {
 
 svg {
   height: 50px;
-  filter: var(--turquoise-color);
+  filter: #00008b;
 }
 
 #main-content {
